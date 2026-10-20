@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "640634939830",
+    "project_id": "mi-projecto-acb71",
+    "storage_bucket": "mi-projecto-acb71.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640634939830:android:09194e3f263a7e51973917",
+        "android_client_info": {
+          "package_name": "com.example.appiot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0J1x6Vn3bb0No24Et-w6bG0qQq46nXZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
